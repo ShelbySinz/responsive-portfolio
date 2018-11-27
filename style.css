@@ -261,7 +261,7 @@ body {
         width:100%;
         height:30px;
         margin-top:10px;
-        padding-left:45px;
+        padding-left:60px;
     }
 
     #masthead {
@@ -269,6 +269,6 @@ body {
     }
    .auth-image {
        width:100%;
-       height:180px;
+       height:150px;
    }
   }
